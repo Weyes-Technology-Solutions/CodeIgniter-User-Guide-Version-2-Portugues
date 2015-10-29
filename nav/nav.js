@@ -8,7 +8,7 @@ function create_menu(basepath)
 
 		'<ul>' +
 		'<li><a href="'+base+'index.html">User Guide Home</a></li>' +
-		'<li><a href="'+base+'toc.html">Table of Contents Page</a></li>' +
+		'<li><a href="'+base+'toc.html">Tabela de Conteúdo</a></li>' +
 		'</ul>' +
 
 		'<h3>Basic Info</h3>' +
