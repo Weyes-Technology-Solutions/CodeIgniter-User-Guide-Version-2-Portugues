@@ -7,7 +7,7 @@ function create_menu(basepath)
 		'<td class="td" valign="top">' +
 
 		'<ul>' +
-		'<li><a href="'+base+'index.html">User Guide Home</a></li>' +
+		'<li><a href="'+base+'index.html">Guia do Usuário Home</a></li>' +
 		'<li><a href="'+base+'toc.html">Tabela de Conteúdo</a></li>' +
 		'</ul>' +
 
